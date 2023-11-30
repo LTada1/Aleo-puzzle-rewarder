@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "player1",
+      "walletAddress": "0xabc123",
+      "totalRewards": 0,
+      "completedChallenges": []
+    }
+  ]
+}
+

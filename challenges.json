@@ -1,0 +1,27 @@
+{
+  "challenges": [
+    {
+      "id": 1,
+      "level": "easy",
+      "type": "cryptographic",
+      "description": "Solve the following puzzle: 2 + 2 = ?",
+      "reward": 0.1
+    },
+    {
+      "id": 2,
+      "level": "medium",
+      "type": "trivia",
+      "description": "What is the first cryptocurrency ever created?",
+      "correctAnswer": "Bitcoin",
+      "reward": 0.3
+    },
+    {
+      "id": 3,
+      "level": "hard",
+      "type": "task",
+      "description": "Promote our project on social media and provide a link.",
+      "reward": 0.5
+    }
+  ]
+}
+
